@@ -7,5 +7,5 @@ class User(
 )
 
 val listaUsuario = listOf(
-    User(1,"Maria",1500.99)
+    User(1,"Diana",12320.99)
 )
